@@ -16,7 +16,5 @@ This project demonstrates key operations on a **Singly Linked List** implemented
 - ❌ Delete the **k-th node** (1-based index)
 - 🖨️ Print the entire list
 
----
 
-## 📂 Project Structure
 
